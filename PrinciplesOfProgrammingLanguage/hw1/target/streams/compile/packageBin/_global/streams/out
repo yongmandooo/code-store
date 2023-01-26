@@ -1,0 +1,55 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\hw1-cse271_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Andalso$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\classes\Andalso$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Andalso.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\classes\Andalso.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BTree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\classes\BTree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cons$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\classes\Cons$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cons.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\classes\Cons.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	False$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\classes\False$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	False.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\classes\False.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Formula.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\classes\Formula.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Hw1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\classes\Hw1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Hw1$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\classes\Hw1$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Hw1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\classes\Hw1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Implies$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\classes\Implies$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Implies.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\classes\Implies.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IntList.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\classes\IntList.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IntNode$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\classes\IntNode$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IntNode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\classes\IntNode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Leaf$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\classes\Leaf$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Leaf.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\classes\Leaf.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Nil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\classes\Nil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Nil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\classes\Nil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Not$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\classes\Not$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Not.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\classes\Not.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Orelse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\classes\Orelse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Orelse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\classes\Orelse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	True$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\classes\True$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	True.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\kym00\Desktop\2021 Fall\PPL\hw2\target\scala-2.13\classes\True.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
