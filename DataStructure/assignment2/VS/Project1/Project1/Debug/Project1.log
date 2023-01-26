@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\kym00\Desktop\2021Fall\DS\hw code\assignment2\VS\to_postfix.h(21,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kym00\Desktop\2021Fall\DS\hw code\assignment2\VS\tree.h(129): warning C4715: 'Tree::eval': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Project1.vcxproj -> C:\Users\kym00\Desktop\2021Fall\DS\hw code\assignment2\VS\Project1\Debug\Project1.exe
