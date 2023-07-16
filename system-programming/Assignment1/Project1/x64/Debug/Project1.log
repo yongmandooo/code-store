@@ -1,0 +1,5 @@
+﻿  assignment1.c
+C:\Users\KwonYongmin\2023spring\SystemProgramming\Assignment1\Project1\assignment1.h(202,14): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KwonYongmin\2023spring\SystemProgramming\Assignment1\Project1\assignment1.h(206,14): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KwonYongmin\2023spring\SystemProgramming\Assignment1\Project1\assignment1.h(213,21): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Project1.vcxproj -> C:\Users\KwonYongmin\2023spring\SystemProgramming\Assignment1\Project1\x64\Debug\Project1.exe

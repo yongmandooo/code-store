@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="image_view">Indoor Structure</string>
+    <string name="marker">marker</string>
+    <string name="Upload_map">Upload map</string>
+    <string name="Delete_map">Delete map</string>
+    <string name="War_driving">War driving</string>
+    <string name="Localization">Localization</string>
+    <string name="scan">Scan</string>
+    <string name="cancel">Cancel</string>
+    <string name="save_scan_result">Would you like to save scan result?</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+</resources>
