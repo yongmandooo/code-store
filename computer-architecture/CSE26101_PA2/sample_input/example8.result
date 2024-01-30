@@ -1,0 +1,2906 @@
+Instruction Information
+INST_INFO[ 0 ].value :  23431910
+INST_INFO[ 0 ].opcode :  8
+INST_INFO[ 0 ].rs :  26
+INST_INFO[ 0 ].rt :  3
+INST_INFO[ 0 ].imm :  6416
+INST_INFO[ 1 ].value :  208ca163
+INST_INFO[ 1 ].opcode :  8
+INST_INFO[ 1 ].rs :  4
+INST_INFO[ 1 ].rt :  12
+INST_INFO[ 1 ].imm :  -24221
+INST_INFO[ 2 ].value :  20047e96
+INST_INFO[ 2 ].opcode :  8
+INST_INFO[ 2 ].rs :  0
+INST_INFO[ 2 ].rt :  4
+INST_INFO[ 2 ].imm :  32406
+INST_INFO[ 3 ].value :  2247ad21
+INST_INFO[ 3 ].opcode :  8
+INST_INFO[ 3 ].rs :  18
+INST_INFO[ 3 ].rt :  7
+INST_INFO[ 3 ].imm :  -21215
+INST_INFO[ 4 ].value :  20075553
+INST_INFO[ 4 ].opcode :  8
+INST_INFO[ 4 ].rs :  0
+INST_INFO[ 4 ].rt :  7
+INST_INFO[ 4 ].imm :  21843
+INST_INFO[ 5 ].value :  26c30162
+INST_INFO[ 5 ].opcode :  9
+INST_INFO[ 5 ].rs :  22
+INST_INFO[ 5 ].rt :  3
+INST_INFO[ 5 ].imm :  354
+INST_INFO[ 6 ].value :  2402bb1d
+INST_INFO[ 6 ].opcode :  9
+INST_INFO[ 6 ].rs :  0
+INST_INFO[ 6 ].rt :  2
+INST_INFO[ 6 ].imm :  -17635
+INST_INFO[ 7 ].value :  2217ecf2
+INST_INFO[ 7 ].opcode :  8
+INST_INFO[ 7 ].rs :  16
+INST_INFO[ 7 ].rt :  23
+INST_INFO[ 7 ].imm :  -4878
+INST_INFO[ 8 ].value :  24a096c3
+INST_INFO[ 8 ].opcode :  9
+INST_INFO[ 8 ].rs :  5
+INST_INFO[ 8 ].rt :  0
+INST_INFO[ 8 ].imm :  -26941
+INST_INFO[ 9 ].value :  268b7e19
+INST_INFO[ 9 ].opcode :  9
+INST_INFO[ 9 ].rs :  20
+INST_INFO[ 9 ].rt :  11
+INST_INFO[ 9 ].imm :  32281
+INST_INFO[ 10 ].value :  251e9cc9
+INST_INFO[ 10 ].opcode :  9
+INST_INFO[ 10 ].rs :  8
+INST_INFO[ 10 ].rt :  30
+INST_INFO[ 10 ].imm :  -25399
+INST_INFO[ 11 ].value :  218e0ac8
+INST_INFO[ 11 ].opcode :  8
+INST_INFO[ 11 ].rs :  12
+INST_INFO[ 11 ].rt :  14
+INST_INFO[ 11 ].imm :  2760
+INST_INFO[ 12 ].value :  22eb88da
+INST_INFO[ 12 ].opcode :  8
+INST_INFO[ 12 ].rs :  23
+INST_INFO[ 12 ].rt :  11
+INST_INFO[ 12 ].imm :  -30502
+INST_INFO[ 13 ].value :  27fcd525
+INST_INFO[ 13 ].opcode :  9
+INST_INFO[ 13 ].rs :  31
+INST_INFO[ 13 ].rt :  28
+INST_INFO[ 13 ].imm :  -10971
+INST_INFO[ 14 ].value :  24495461
+INST_INFO[ 14 ].opcode :  9
+INST_INFO[ 14 ].rs :  2
+INST_INFO[ 14 ].rt :  9
+INST_INFO[ 14 ].imm :  21601
+INST_INFO[ 15 ].value :  243f14f5
+INST_INFO[ 15 ].opcode :  9
+INST_INFO[ 15 ].rs :  1
+INST_INFO[ 15 ].rt :  31
+INST_INFO[ 15 ].imm :  5365
+INST_INFO[ 16 ].value :  240222a6
+INST_INFO[ 16 ].opcode :  9
+INST_INFO[ 16 ].rs :  0
+INST_INFO[ 16 ].rt :  2
+INST_INFO[ 16 ].imm :  8870
+INST_INFO[ 17 ].value :  263b413f
+INST_INFO[ 17 ].opcode :  9
+INST_INFO[ 17 ].rs :  17
+INST_INFO[ 17 ].rt :  27
+INST_INFO[ 17 ].imm :  16703
+INST_INFO[ 18 ].value :  246b875c
+INST_INFO[ 18 ].opcode :  9
+INST_INFO[ 18 ].rs :  3
+INST_INFO[ 18 ].rt :  11
+INST_INFO[ 18 ].imm :  -30884
+INST_INFO[ 19 ].value :  27b89173
+INST_INFO[ 19 ].opcode :  9
+INST_INFO[ 19 ].rs :  29
+INST_INFO[ 19 ].rt :  24
+INST_INFO[ 19 ].imm :  -28301
+INST_INFO[ 20 ].value :  20e69612
+INST_INFO[ 20 ].opcode :  8
+INST_INFO[ 20 ].rs :  7
+INST_INFO[ 20 ].rt :  6
+INST_INFO[ 20 ].imm :  -27118
+INST_INFO[ 21 ].value :  274d457f
+INST_INFO[ 21 ].opcode :  9
+INST_INFO[ 21 ].rs :  26
+INST_INFO[ 21 ].rt :  13
+INST_INFO[ 21 ].imm :  17791
+INST_INFO[ 22 ].value :  263f5ab6
+INST_INFO[ 22 ].opcode :  9
+INST_INFO[ 22 ].rs :  17
+INST_INFO[ 22 ].rt :  31
+INST_INFO[ 22 ].imm :  23222
+INST_INFO[ 23 ].value :  236cfa9c
+INST_INFO[ 23 ].opcode :  8
+INST_INFO[ 23 ].rs :  27
+INST_INFO[ 23 ].rt :  12
+INST_INFO[ 23 ].imm :  -1380
+INST_INFO[ 24 ].value :  22043869
+INST_INFO[ 24 ].opcode :  8
+INST_INFO[ 24 ].rs :  16
+INST_INFO[ 24 ].rt :  4
+INST_INFO[ 24 ].imm :  14441
+INST_INFO[ 25 ].value :  241dfd07
+INST_INFO[ 25 ].opcode :  9
+INST_INFO[ 25 ].rs :  0
+INST_INFO[ 25 ].rt :  29
+INST_INFO[ 25 ].imm :  -761
+INST_INFO[ 26 ].value :  25927979
+INST_INFO[ 26 ].opcode :  9
+INST_INFO[ 26 ].rs :  12
+INST_INFO[ 26 ].rt :  18
+INST_INFO[ 26 ].imm :  31097
+INST_INFO[ 27 ].value :  26692805
+INST_INFO[ 27 ].opcode :  9
+INST_INFO[ 27 ].rs :  19
+INST_INFO[ 27 ].rt :  9
+INST_INFO[ 27 ].imm :  10245
+INST_INFO[ 28 ].value :  209fdba2
+INST_INFO[ 28 ].opcode :  8
+INST_INFO[ 28 ].rs :  4
+INST_INFO[ 28 ].rt :  31
+INST_INFO[ 28 ].imm :  -9310
+INST_INFO[ 29 ].value :  210abb4f
+INST_INFO[ 29 ].opcode :  8
+INST_INFO[ 29 ].rs :  8
+INST_INFO[ 29 ].rt :  10
+INST_INFO[ 29 ].imm :  -17585
+INST_INFO[ 30 ].value :  238bdaf2
+INST_INFO[ 30 ].opcode :  8
+INST_INFO[ 30 ].rs :  28
+INST_INFO[ 30 ].rt :  11
+INST_INFO[ 30 ].imm :  -9486
+INST_INFO[ 31 ].value :  2125e2c5
+INST_INFO[ 31 ].opcode :  8
+INST_INFO[ 31 ].rs :  9
+INST_INFO[ 31 ].rt :  5
+INST_INFO[ 31 ].imm :  -7483
+INST_INFO[ 32 ].value :  25c70701
+INST_INFO[ 32 ].opcode :  9
+INST_INFO[ 32 ].rs :  14
+INST_INFO[ 32 ].rt :  7
+INST_INFO[ 32 ].imm :  1793
+INST_INFO[ 33 ].value :  24b7c90d
+INST_INFO[ 33 ].opcode :  9
+INST_INFO[ 33 ].rs :  5
+INST_INFO[ 33 ].rt :  23
+INST_INFO[ 33 ].imm :  -14067
+INST_INFO[ 34 ].value :  21d4e958
+INST_INFO[ 34 ].opcode :  8
+INST_INFO[ 34 ].rs :  14
+INST_INFO[ 34 ].rt :  20
+INST_INFO[ 34 ].imm :  -5800
+INST_INFO[ 35 ].value :  24e746fe
+INST_INFO[ 35 ].opcode :  9
+INST_INFO[ 35 ].rs :  7
+INST_INFO[ 35 ].rt :  7
+INST_INFO[ 35 ].imm :  18174
+INST_INFO[ 36 ].value :  27247c94
+INST_INFO[ 36 ].opcode :  9
+INST_INFO[ 36 ].rs :  25
+INST_INFO[ 36 ].rt :  4
+INST_INFO[ 36 ].imm :  31892
+INST_INFO[ 37 ].value :  27bbcf78
+INST_INFO[ 37 ].opcode :  9
+INST_INFO[ 37 ].rs :  29
+INST_INFO[ 37 ].rt :  27
+INST_INFO[ 37 ].imm :  -12424
+INST_INFO[ 38 ].value :  247a51b7
+INST_INFO[ 38 ].opcode :  9
+INST_INFO[ 38 ].rs :  3
+INST_INFO[ 38 ].rt :  26
+INST_INFO[ 38 ].imm :  20919
+INST_INFO[ 39 ].value :  27b92cf0
+INST_INFO[ 39 ].opcode :  9
+INST_INFO[ 39 ].rs :  29
+INST_INFO[ 39 ].rt :  25
+INST_INFO[ 39 ].imm :  11504
+INST_INFO[ 40 ].value :  219d425e
+INST_INFO[ 40 ].opcode :  8
+INST_INFO[ 40 ].rs :  12
+INST_INFO[ 40 ].rt :  29
+INST_INFO[ 40 ].imm :  16990
+INST_INFO[ 41 ].value :  23306c59
+INST_INFO[ 41 ].opcode :  8
+INST_INFO[ 41 ].rs :  25
+INST_INFO[ 41 ].rt :  16
+INST_INFO[ 41 ].imm :  27737
+INST_INFO[ 42 ].value :  22ce99e1
+INST_INFO[ 42 ].opcode :  8
+INST_INFO[ 42 ].rs :  22
+INST_INFO[ 42 ].rt :  14
+INST_INFO[ 42 ].imm :  -26143
+INST_INFO[ 43 ].value :  2435e3e7
+INST_INFO[ 43 ].opcode :  9
+INST_INFO[ 43 ].rs :  1
+INST_INFO[ 43 ].rt :  21
+INST_INFO[ 43 ].imm :  -7193
+INST_INFO[ 44 ].value :  2054b0f2
+INST_INFO[ 44 ].opcode :  8
+INST_INFO[ 44 ].rs :  2
+INST_INFO[ 44 ].rt :  20
+INST_INFO[ 44 ].imm :  -20238
+INST_INFO[ 45 ].value :  212aeb4d
+INST_INFO[ 45 ].opcode :  8
+INST_INFO[ 45 ].rs :  9
+INST_INFO[ 45 ].rt :  10
+INST_INFO[ 45 ].imm :  -5299
+INST_INFO[ 46 ].value :  222e7716
+INST_INFO[ 46 ].opcode :  8
+INST_INFO[ 46 ].rs :  17
+INST_INFO[ 46 ].rt :  14
+INST_INFO[ 46 ].imm :  30486
+INST_INFO[ 47 ].value :  204b3ff5
+INST_INFO[ 47 ].opcode :  8
+INST_INFO[ 47 ].rs :  2
+INST_INFO[ 47 ].rt :  11
+INST_INFO[ 47 ].imm :  16373
+INST_INFO[ 48 ].value :  20a837ad
+INST_INFO[ 48 ].opcode :  8
+INST_INFO[ 48 ].rs :  5
+INST_INFO[ 48 ].rt :  8
+INST_INFO[ 48 ].imm :  14253
+INST_INFO[ 49 ].value :  203dc297
+INST_INFO[ 49 ].opcode :  8
+INST_INFO[ 49 ].rs :  1
+INST_INFO[ 49 ].rt :  29
+INST_INFO[ 49 ].imm :  -15721
+INST_INFO[ 50 ].value :  22bad2df
+INST_INFO[ 50 ].opcode :  8
+INST_INFO[ 50 ].rs :  21
+INST_INFO[ 50 ].rt :  26
+INST_INFO[ 50 ].imm :  -11553
+INST_INFO[ 51 ].value :  2643ca55
+INST_INFO[ 51 ].opcode :  9
+INST_INFO[ 51 ].rs :  18
+INST_INFO[ 51 ].rt :  3
+INST_INFO[ 51 ].imm :  -13739
+INST_INFO[ 52 ].value :  226763ca
+INST_INFO[ 52 ].opcode :  8
+INST_INFO[ 52 ].rs :  19
+INST_INFO[ 52 ].rt :  7
+INST_INFO[ 52 ].imm :  25546
+INST_INFO[ 53 ].value :  2146fd47
+INST_INFO[ 53 ].opcode :  8
+INST_INFO[ 53 ].rs :  10
+INST_INFO[ 53 ].rt :  6
+INST_INFO[ 53 ].imm :  -697
+INST_INFO[ 54 ].value :  24b54e6d
+INST_INFO[ 54 ].opcode :  9
+INST_INFO[ 54 ].rs :  5
+INST_INFO[ 54 ].rt :  21
+INST_INFO[ 54 ].imm :  20077
+INST_INFO[ 55 ].value :  230d7dfd
+INST_INFO[ 55 ].opcode :  8
+INST_INFO[ 55 ].rs :  24
+INST_INFO[ 55 ].rt :  13
+INST_INFO[ 55 ].imm :  32253
+INST_INFO[ 56 ].value :  247a6ac1
+INST_INFO[ 56 ].opcode :  9
+INST_INFO[ 56 ].rs :  3
+INST_INFO[ 56 ].rt :  26
+INST_INFO[ 56 ].imm :  27329
+INST_INFO[ 57 ].value :  27e5c8f6
+INST_INFO[ 57 ].opcode :  9
+INST_INFO[ 57 ].rs :  31
+INST_INFO[ 57 ].rt :  5
+INST_INFO[ 57 ].imm :  -14090
+INST_INFO[ 58 ].value :  25539760
+INST_INFO[ 58 ].opcode :  9
+INST_INFO[ 58 ].rs :  10
+INST_INFO[ 58 ].rt :  19
+INST_INFO[ 58 ].imm :  -26784
+INST_INFO[ 59 ].value :  217605d3
+INST_INFO[ 59 ].opcode :  8
+INST_INFO[ 59 ].rs :  11
+INST_INFO[ 59 ].rt :  22
+INST_INFO[ 59 ].imm :  1491
+INST_INFO[ 60 ].value :  2436f96c
+INST_INFO[ 60 ].opcode :  9
+INST_INFO[ 60 ].rs :  1
+INST_INFO[ 60 ].rt :  22
+INST_INFO[ 60 ].imm :  -1684
+INST_INFO[ 61 ].value :  249e4166
+INST_INFO[ 61 ].opcode :  9
+INST_INFO[ 61 ].rs :  4
+INST_INFO[ 61 ].rt :  30
+INST_INFO[ 61 ].imm :  16742
+INST_INFO[ 62 ].value :  2687b2a9
+INST_INFO[ 62 ].opcode :  9
+INST_INFO[ 62 ].rs :  20
+INST_INFO[ 62 ].rt :  7
+INST_INFO[ 62 ].imm :  -19799
+INST_INFO[ 63 ].value :  23d7bd10
+INST_INFO[ 63 ].opcode :  8
+INST_INFO[ 63 ].rs :  30
+INST_INFO[ 63 ].rt :  23
+INST_INFO[ 63 ].imm :  -17136
+INST_INFO[ 64 ].value :  26f564e2
+INST_INFO[ 64 ].opcode :  9
+INST_INFO[ 64 ].rs :  23
+INST_INFO[ 64 ].rt :  21
+INST_INFO[ 64 ].imm :  25826
+INST_INFO[ 65 ].value :  25fb11d2
+INST_INFO[ 65 ].opcode :  9
+INST_INFO[ 65 ].rs :  15
+INST_INFO[ 65 ].rt :  27
+INST_INFO[ 65 ].imm :  4562
+INST_INFO[ 66 ].value :  21f73003
+INST_INFO[ 66 ].opcode :  8
+INST_INFO[ 66 ].rs :  15
+INST_INFO[ 66 ].rt :  23
+INST_INFO[ 66 ].imm :  12291
+INST_INFO[ 67 ].value :  24861316
+INST_INFO[ 67 ].opcode :  9
+INST_INFO[ 67 ].rs :  4
+INST_INFO[ 67 ].rt :  6
+INST_INFO[ 67 ].imm :  4886
+INST_INFO[ 68 ].value :  230c8eff
+INST_INFO[ 68 ].opcode :  8
+INST_INFO[ 68 ].rs :  24
+INST_INFO[ 68 ].rt :  12
+INST_INFO[ 68 ].imm :  -28929
+INST_INFO[ 69 ].value :  24438c28
+INST_INFO[ 69 ].opcode :  9
+INST_INFO[ 69 ].rs :  2
+INST_INFO[ 69 ].rt :  3
+INST_INFO[ 69 ].imm :  -29656
+INST_INFO[ 70 ].value :  237169bb
+INST_INFO[ 70 ].opcode :  8
+INST_INFO[ 70 ].rs :  27
+INST_INFO[ 70 ].rt :  17
+INST_INFO[ 70 ].imm :  27067
+INST_INFO[ 71 ].value :  25fd6bcb
+INST_INFO[ 71 ].opcode :  9
+INST_INFO[ 71 ].rs :  15
+INST_INFO[ 71 ].rt :  29
+INST_INFO[ 71 ].imm :  27595
+INST_INFO[ 72 ].value :  25f9da6f
+INST_INFO[ 72 ].opcode :  9
+INST_INFO[ 72 ].rs :  15
+INST_INFO[ 72 ].rt :  25
+INST_INFO[ 72 ].imm :  -9617
+INST_INFO[ 73 ].value :  22acdd32
+INST_INFO[ 73 ].opcode :  8
+INST_INFO[ 73 ].rs :  21
+INST_INFO[ 73 ].rt :  12
+INST_INFO[ 73 ].imm :  -8910
+INST_INFO[ 74 ].value :  200a494d
+INST_INFO[ 74 ].opcode :  8
+INST_INFO[ 74 ].rs :  0
+INST_INFO[ 74 ].rt :  10
+INST_INFO[ 74 ].imm :  18765
+INST_INFO[ 75 ].value :  23c0879e
+INST_INFO[ 75 ].opcode :  8
+INST_INFO[ 75 ].rs :  30
+INST_INFO[ 75 ].rt :  0
+INST_INFO[ 75 ].imm :  -30818
+INST_INFO[ 76 ].value :  21cbd303
+INST_INFO[ 76 ].opcode :  8
+INST_INFO[ 76 ].rs :  14
+INST_INFO[ 76 ].rt :  11
+INST_INFO[ 76 ].imm :  -11517
+INST_INFO[ 77 ].value :  2793a879
+INST_INFO[ 77 ].opcode :  9
+INST_INFO[ 77 ].rs :  28
+INST_INFO[ 77 ].rt :  19
+INST_INFO[ 77 ].imm :  -22407
+INST_INFO[ 78 ].value :  20dddc9e
+INST_INFO[ 78 ].opcode :  8
+INST_INFO[ 78 ].rs :  6
+INST_INFO[ 78 ].rt :  29
+INST_INFO[ 78 ].imm :  -9058
+INST_INFO[ 79 ].value :  265a8ea9
+INST_INFO[ 79 ].opcode :  9
+INST_INFO[ 79 ].rs :  18
+INST_INFO[ 79 ].rt :  26
+INST_INFO[ 79 ].imm :  -29015
+INST_INFO[ 80 ].value :  2526608c
+INST_INFO[ 80 ].opcode :  9
+INST_INFO[ 80 ].rs :  9
+INST_INFO[ 80 ].rt :  6
+INST_INFO[ 80 ].imm :  24716
+INST_INFO[ 81 ].value :  21b054bb
+INST_INFO[ 81 ].opcode :  8
+INST_INFO[ 81 ].rs :  13
+INST_INFO[ 81 ].rt :  16
+INST_INFO[ 81 ].imm :  21691
+INST_INFO[ 82 ].value :  24168253
+INST_INFO[ 82 ].opcode :  9
+INST_INFO[ 82 ].rs :  0
+INST_INFO[ 82 ].rt :  22
+INST_INFO[ 82 ].imm :  -32173
+INST_INFO[ 83 ].value :  209c6238
+INST_INFO[ 83 ].opcode :  8
+INST_INFO[ 83 ].rs :  4
+INST_INFO[ 83 ].rt :  28
+INST_INFO[ 83 ].imm :  25144
+INST_INFO[ 84 ].value :  22d691d8
+INST_INFO[ 84 ].opcode :  8
+INST_INFO[ 84 ].rs :  22
+INST_INFO[ 84 ].rt :  22
+INST_INFO[ 84 ].imm :  -28200
+INST_INFO[ 85 ].value :  27872cb0
+INST_INFO[ 85 ].opcode :  9
+INST_INFO[ 85 ].rs :  28
+INST_INFO[ 85 ].rt :  7
+INST_INFO[ 85 ].imm :  11440
+INST_INFO[ 86 ].value :  20034dff
+INST_INFO[ 86 ].opcode :  8
+INST_INFO[ 86 ].rs :  0
+INST_INFO[ 86 ].rt :  3
+INST_INFO[ 86 ].imm :  19967
+INST_INFO[ 87 ].value :  26867b51
+INST_INFO[ 87 ].opcode :  9
+INST_INFO[ 87 ].rs :  20
+INST_INFO[ 87 ].rt :  6
+INST_INFO[ 87 ].imm :  31569
+INST_INFO[ 88 ].value :  250f1510
+INST_INFO[ 88 ].opcode :  9
+INST_INFO[ 88 ].rs :  8
+INST_INFO[ 88 ].rt :  15
+INST_INFO[ 88 ].imm :  5392
+INST_INFO[ 89 ].value :  27cb8702
+INST_INFO[ 89 ].opcode :  9
+INST_INFO[ 89 ].rs :  30
+INST_INFO[ 89 ].rt :  11
+INST_INFO[ 89 ].imm :  -30974
+INST_INFO[ 90 ].value :  23f12432
+INST_INFO[ 90 ].opcode :  8
+INST_INFO[ 90 ].rs :  31
+INST_INFO[ 90 ].rt :  17
+INST_INFO[ 90 ].imm :  9266
+INST_INFO[ 91 ].value :  20c07044
+INST_INFO[ 91 ].opcode :  8
+INST_INFO[ 91 ].rs :  6
+INST_INFO[ 91 ].rt :  0
+INST_INFO[ 91 ].imm :  28740
+INST_INFO[ 92 ].value :  2144ce9b
+INST_INFO[ 92 ].opcode :  8
+INST_INFO[ 92 ].rs :  10
+INST_INFO[ 92 ].rt :  4
+INST_INFO[ 92 ].imm :  -12645
+INST_INFO[ 93 ].value :  263de5cb
+INST_INFO[ 93 ].opcode :  9
+INST_INFO[ 93 ].rs :  17
+INST_INFO[ 93 ].rt :  29
+INST_INFO[ 93 ].imm :  -6709
+INST_INFO[ 94 ].value :  2565a55e
+INST_INFO[ 94 ].opcode :  9
+INST_INFO[ 94 ].rs :  11
+INST_INFO[ 94 ].rt :  5
+INST_INFO[ 94 ].imm :  -23202
+INST_INFO[ 95 ].value :  21010ac5
+INST_INFO[ 95 ].opcode :  8
+INST_INFO[ 95 ].rs :  8
+INST_INFO[ 95 ].rt :  1
+INST_INFO[ 95 ].imm :  2757
+INST_INFO[ 96 ].value :  226d1912
+INST_INFO[ 96 ].opcode :  8
+INST_INFO[ 96 ].rs :  19
+INST_INFO[ 96 ].rt :  13
+INST_INFO[ 96 ].imm :  6418
+INST_INFO[ 97 ].value :  2207d18a
+INST_INFO[ 97 ].opcode :  8
+INST_INFO[ 97 ].rs :  16
+INST_INFO[ 97 ].rt :  7
+INST_INFO[ 97 ].imm :  -11894
+INST_INFO[ 98 ].value :  2653e252
+INST_INFO[ 98 ].opcode :  9
+INST_INFO[ 98 ].rs :  18
+INST_INFO[ 98 ].rt :  19
+INST_INFO[ 98 ].imm :  -7598
+INST_INFO[ 99 ].value :  208a81da
+INST_INFO[ 99 ].opcode :  8
+INST_INFO[ 99 ].rs :  4
+INST_INFO[ 99 ].rt :  10
+INST_INFO[ 99 ].imm :  -32294
+Memory Dump - Text Segment
+
+text_seg[ 0 ] :  23431910
+text_seg[ 4 ] :  208ca163
+text_seg[ 8 ] :  20047e96
+text_seg[ 12 ] :  2247ad21
+text_seg[ 16 ] :  20075553
+text_seg[ 20 ] :  26c30162
+text_seg[ 24 ] :  2402bb1d
+text_seg[ 28 ] :  2217ecf2
+text_seg[ 32 ] :  24a096c3
+text_seg[ 36 ] :  268b7e19
+text_seg[ 40 ] :  251e9cc9
+text_seg[ 44 ] :  218e0ac8
+text_seg[ 48 ] :  22eb88da
+text_seg[ 52 ] :  27fcd525
+text_seg[ 56 ] :  24495461
+text_seg[ 60 ] :  243f14f5
+text_seg[ 64 ] :  240222a6
+text_seg[ 68 ] :  263b413f
+text_seg[ 72 ] :  246b875c
+text_seg[ 76 ] :  27b89173
+text_seg[ 80 ] :  20e69612
+text_seg[ 84 ] :  274d457f
+text_seg[ 88 ] :  263f5ab6
+text_seg[ 92 ] :  236cfa9c
+text_seg[ 96 ] :  22043869
+text_seg[ 100 ] :  241dfd07
+text_seg[ 104 ] :  25927979
+text_seg[ 108 ] :  26692805
+text_seg[ 112 ] :  209fdba2
+text_seg[ 116 ] :  210abb4f
+text_seg[ 120 ] :  238bdaf2
+text_seg[ 124 ] :  2125e2c5
+text_seg[ 128 ] :  25c70701
+text_seg[ 132 ] :  24b7c90d
+text_seg[ 136 ] :  21d4e958
+text_seg[ 140 ] :  24e746fe
+text_seg[ 144 ] :  27247c94
+text_seg[ 148 ] :  27bbcf78
+text_seg[ 152 ] :  247a51b7
+text_seg[ 156 ] :  27b92cf0
+text_seg[ 160 ] :  219d425e
+text_seg[ 164 ] :  23306c59
+text_seg[ 168 ] :  22ce99e1
+text_seg[ 172 ] :  2435e3e7
+text_seg[ 176 ] :  2054b0f2
+text_seg[ 180 ] :  212aeb4d
+text_seg[ 184 ] :  222e7716
+text_seg[ 188 ] :  204b3ff5
+text_seg[ 192 ] :  20a837ad
+text_seg[ 196 ] :  203dc297
+text_seg[ 200 ] :  22bad2df
+text_seg[ 204 ] :  2643ca55
+text_seg[ 208 ] :  226763ca
+text_seg[ 212 ] :  2146fd47
+text_seg[ 216 ] :  24b54e6d
+text_seg[ 220 ] :  230d7dfd
+text_seg[ 224 ] :  247a6ac1
+text_seg[ 228 ] :  27e5c8f6
+text_seg[ 232 ] :  25539760
+text_seg[ 236 ] :  217605d3
+text_seg[ 240 ] :  2436f96c
+text_seg[ 244 ] :  249e4166
+text_seg[ 248 ] :  2687b2a9
+text_seg[ 252 ] :  23d7bd10
+text_seg[ 256 ] :  26f564e2
+text_seg[ 260 ] :  25fb11d2
+text_seg[ 264 ] :  21f73003
+text_seg[ 268 ] :  24861316
+text_seg[ 272 ] :  230c8eff
+text_seg[ 276 ] :  24438c28
+text_seg[ 280 ] :  237169bb
+text_seg[ 284 ] :  25fd6bcb
+text_seg[ 288 ] :  25f9da6f
+text_seg[ 292 ] :  22acdd32
+text_seg[ 296 ] :  200a494d
+text_seg[ 300 ] :  23c0879e
+text_seg[ 304 ] :  21cbd303
+text_seg[ 308 ] :  2793a879
+text_seg[ 312 ] :  20dddc9e
+text_seg[ 316 ] :  265a8ea9
+text_seg[ 320 ] :  2526608c
+text_seg[ 324 ] :  21b054bb
+text_seg[ 328 ] :  24168253
+text_seg[ 332 ] :  209c6238
+text_seg[ 336 ] :  22d691d8
+text_seg[ 340 ] :  27872cb0
+text_seg[ 344 ] :  20034dff
+text_seg[ 348 ] :  26867b51
+text_seg[ 352 ] :  250f1510
+text_seg[ 356 ] :  27cb8702
+text_seg[ 360 ] :  23f12432
+text_seg[ 364 ] :  20c07044
+text_seg[ 368 ] :  2144ce9b
+text_seg[ 372 ] :  263de5cb
+text_seg[ 376 ] :  2565a55e
+text_seg[ 380 ] :  21010ac5
+text_seg[ 384 ] :  226d1912
+text_seg[ 388 ] :  2207d18a
+text_seg[ 392 ] :  2653e252
+text_seg[ 396 ] :  208a81da
+Current PC: 0
+Simulating for 50 cycles...
+
+Current register values : 
+-------------------------------------
+PC: 0x00400004
+Register:
+R0: 0x00000000
+R1: 0x00000000
+R2: 0x00000000
+R3: 0x00001910
+R4: 0x00000000
+R5: 0x00000000
+R6: 0x00000000
+R7: 0x00000000
+R8: 0x00000000
+R9: 0x00000000
+R10: 0x00000000
+R11: 0x00000000
+R12: 0x00000000
+R13: 0x00000000
+R14: 0x00000000
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x00000000
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0x00000000
+R24: 0x00000000
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x00000000
+R28: 0x00000000
+R29: 0x00000000
+R30: 0x00000000
+R31: 0x00000000
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+1th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400008
+Register:
+R0: 0x00000000
+R1: 0x00000000
+R2: 0x00000000
+R3: 0x00001910
+R4: 0x00000000
+R5: 0x00000000
+R6: 0x00000000
+R7: 0x00000000
+R8: 0x00000000
+R9: 0x00000000
+R10: 0x00000000
+R11: 0x00000000
+R12: 0xffffa163
+R13: 0x00000000
+R14: 0x00000000
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x00000000
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0x00000000
+R24: 0x00000000
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x00000000
+R28: 0x00000000
+R29: 0x00000000
+R30: 0x00000000
+R31: 0x00000000
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+2th cycle
+Current register values : 
+-------------------------------------
+PC: 0x0040000c
+Register:
+R0: 0x00000000
+R1: 0x00000000
+R2: 0x00000000
+R3: 0x00001910
+R4: 0x00007e96
+R5: 0x00000000
+R6: 0x00000000
+R7: 0x00000000
+R8: 0x00000000
+R9: 0x00000000
+R10: 0x00000000
+R11: 0x00000000
+R12: 0xffffa163
+R13: 0x00000000
+R14: 0x00000000
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x00000000
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0x00000000
+R24: 0x00000000
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x00000000
+R28: 0x00000000
+R29: 0x00000000
+R30: 0x00000000
+R31: 0x00000000
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+3th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400010
+Register:
+R0: 0x00000000
+R1: 0x00000000
+R2: 0x00000000
+R3: 0x00001910
+R4: 0x00007e96
+R5: 0x00000000
+R6: 0x00000000
+R7: 0xffffad21
+R8: 0x00000000
+R9: 0x00000000
+R10: 0x00000000
+R11: 0x00000000
+R12: 0xffffa163
+R13: 0x00000000
+R14: 0x00000000
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x00000000
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0x00000000
+R24: 0x00000000
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x00000000
+R28: 0x00000000
+R29: 0x00000000
+R30: 0x00000000
+R31: 0x00000000
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+4th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400014
+Register:
+R0: 0x00000000
+R1: 0x00000000
+R2: 0x00000000
+R3: 0x00001910
+R4: 0x00007e96
+R5: 0x00000000
+R6: 0x00000000
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00000000
+R10: 0x00000000
+R11: 0x00000000
+R12: 0xffffa163
+R13: 0x00000000
+R14: 0x00000000
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x00000000
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0x00000000
+R24: 0x00000000
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x00000000
+R28: 0x00000000
+R29: 0x00000000
+R30: 0x00000000
+R31: 0x00000000
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+5th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400018
+Register:
+R0: 0x00000000
+R1: 0x00000000
+R2: 0x00000000
+R3: 0x00000162
+R4: 0x00007e96
+R5: 0x00000000
+R6: 0x00000000
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00000000
+R10: 0x00000000
+R11: 0x00000000
+R12: 0xffffa163
+R13: 0x00000000
+R14: 0x00000000
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x00000000
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0x00000000
+R24: 0x00000000
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x00000000
+R28: 0x00000000
+R29: 0x00000000
+R30: 0x00000000
+R31: 0x00000000
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+6th cycle
+Current register values : 
+-------------------------------------
+PC: 0x0040001c
+Register:
+R0: 0x00000000
+R1: 0x00000000
+R2: 0xffffbb1d
+R3: 0x00000162
+R4: 0x00007e96
+R5: 0x00000000
+R6: 0x00000000
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00000000
+R10: 0x00000000
+R11: 0x00000000
+R12: 0xffffa163
+R13: 0x00000000
+R14: 0x00000000
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x00000000
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0x00000000
+R24: 0x00000000
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x00000000
+R28: 0x00000000
+R29: 0x00000000
+R30: 0x00000000
+R31: 0x00000000
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+7th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400020
+Register:
+R0: 0x00000000
+R1: 0x00000000
+R2: 0xffffbb1d
+R3: 0x00000162
+R4: 0x00007e96
+R5: 0x00000000
+R6: 0x00000000
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00000000
+R10: 0x00000000
+R11: 0x00000000
+R12: 0xffffa163
+R13: 0x00000000
+R14: 0x00000000
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x00000000
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffecf2
+R24: 0x00000000
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x00000000
+R28: 0x00000000
+R29: 0x00000000
+R30: 0x00000000
+R31: 0x00000000
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+8th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400024
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffbb1d
+R3: 0x00000162
+R4: 0x00007e96
+R5: 0x00000000
+R6: 0x00000000
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00000000
+R10: 0x00000000
+R11: 0x00000000
+R12: 0xffffa163
+R13: 0x00000000
+R14: 0x00000000
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x00000000
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffecf2
+R24: 0x00000000
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x00000000
+R28: 0x00000000
+R29: 0x00000000
+R30: 0x00000000
+R31: 0x00000000
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+9th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400028
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffbb1d
+R3: 0x00000162
+R4: 0x00007e96
+R5: 0x00000000
+R6: 0x00000000
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00000000
+R10: 0x00000000
+R11: 0x00007e19
+R12: 0xffffa163
+R13: 0x00000000
+R14: 0x00000000
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x00000000
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffecf2
+R24: 0x00000000
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x00000000
+R28: 0x00000000
+R29: 0x00000000
+R30: 0x00000000
+R31: 0x00000000
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+10th cycle
+Current register values : 
+-------------------------------------
+PC: 0x0040002c
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffbb1d
+R3: 0x00000162
+R4: 0x00007e96
+R5: 0x00000000
+R6: 0x00000000
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00000000
+R10: 0x00000000
+R11: 0x00007e19
+R12: 0xffffa163
+R13: 0x00000000
+R14: 0x00000000
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x00000000
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffecf2
+R24: 0x00000000
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x00000000
+R28: 0x00000000
+R29: 0x00000000
+R30: 0xffff9cc9
+R31: 0x00000000
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+11th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400030
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffbb1d
+R3: 0x00000162
+R4: 0x00007e96
+R5: 0x00000000
+R6: 0x00000000
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00000000
+R10: 0x00000000
+R11: 0x00007e19
+R12: 0xffffa163
+R13: 0x00000000
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x00000000
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffecf2
+R24: 0x00000000
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x00000000
+R28: 0x00000000
+R29: 0x00000000
+R30: 0xffff9cc9
+R31: 0x00000000
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+12th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400034
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffbb1d
+R3: 0x00000162
+R4: 0x00007e96
+R5: 0x00000000
+R6: 0x00000000
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00000000
+R10: 0x00000000
+R11: 0xffff75cc
+R12: 0xffffa163
+R13: 0x00000000
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x00000000
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffecf2
+R24: 0x00000000
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x00000000
+R28: 0x00000000
+R29: 0x00000000
+R30: 0xffff9cc9
+R31: 0x00000000
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+13th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400038
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffbb1d
+R3: 0x00000162
+R4: 0x00007e96
+R5: 0x00000000
+R6: 0x00000000
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00000000
+R10: 0x00000000
+R11: 0xffff75cc
+R12: 0xffffa163
+R13: 0x00000000
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x00000000
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffecf2
+R24: 0x00000000
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x00000000
+R28: 0xffffd525
+R29: 0x00000000
+R30: 0xffff9cc9
+R31: 0x00000000
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+14th cycle
+Current register values : 
+-------------------------------------
+PC: 0x0040003c
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffbb1d
+R3: 0x00000162
+R4: 0x00007e96
+R5: 0x00000000
+R6: 0x00000000
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00000f7e
+R10: 0x00000000
+R11: 0xffff75cc
+R12: 0xffffa163
+R13: 0x00000000
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x00000000
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffecf2
+R24: 0x00000000
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x00000000
+R28: 0xffffd525
+R29: 0x00000000
+R30: 0xffff9cc9
+R31: 0x00000000
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+15th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400040
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffbb1d
+R3: 0x00000162
+R4: 0x00007e96
+R5: 0x00000000
+R6: 0x00000000
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00000f7e
+R10: 0x00000000
+R11: 0xffff75cc
+R12: 0xffffa163
+R13: 0x00000000
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x00000000
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffecf2
+R24: 0x00000000
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x00000000
+R28: 0xffffd525
+R29: 0x00000000
+R30: 0xffff9cc9
+R31: 0x000014f5
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+16th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400044
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00007e96
+R5: 0x00000000
+R6: 0x00000000
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00000f7e
+R10: 0x00000000
+R11: 0xffff75cc
+R12: 0xffffa163
+R13: 0x00000000
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x00000000
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffecf2
+R24: 0x00000000
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x00000000
+R28: 0xffffd525
+R29: 0x00000000
+R30: 0xffff9cc9
+R31: 0x000014f5
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+17th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400048
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00007e96
+R5: 0x00000000
+R6: 0x00000000
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00000f7e
+R10: 0x00000000
+R11: 0xffff75cc
+R12: 0xffffa163
+R13: 0x00000000
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x00000000
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffecf2
+R24: 0x00000000
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x0000413f
+R28: 0xffffd525
+R29: 0x00000000
+R30: 0xffff9cc9
+R31: 0x000014f5
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+18th cycle
+Current register values : 
+-------------------------------------
+PC: 0x0040004c
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00007e96
+R5: 0x00000000
+R6: 0x00000000
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00000f7e
+R10: 0x00000000
+R11: 0xffff88be
+R12: 0xffffa163
+R13: 0x00000000
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x00000000
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffecf2
+R24: 0x00000000
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x0000413f
+R28: 0xffffd525
+R29: 0x00000000
+R30: 0xffff9cc9
+R31: 0x000014f5
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+19th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400050
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00007e96
+R5: 0x00000000
+R6: 0x00000000
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00000f7e
+R10: 0x00000000
+R11: 0xffff88be
+R12: 0xffffa163
+R13: 0x00000000
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x00000000
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffecf2
+R24: 0xffff9173
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x0000413f
+R28: 0xffffd525
+R29: 0x00000000
+R30: 0xffff9cc9
+R31: 0x000014f5
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+20th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400054
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00007e96
+R5: 0x00000000
+R6: 0xffffeb65
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00000f7e
+R10: 0x00000000
+R11: 0xffff88be
+R12: 0xffffa163
+R13: 0x00000000
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x00000000
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffecf2
+R24: 0xffff9173
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x0000413f
+R28: 0xffffd525
+R29: 0x00000000
+R30: 0xffff9cc9
+R31: 0x000014f5
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+21th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400058
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00007e96
+R5: 0x00000000
+R6: 0xffffeb65
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00000f7e
+R10: 0x00000000
+R11: 0xffff88be
+R12: 0xffffa163
+R13: 0x0000457f
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x00000000
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffecf2
+R24: 0xffff9173
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x0000413f
+R28: 0xffffd525
+R29: 0x00000000
+R30: 0xffff9cc9
+R31: 0x000014f5
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+22th cycle
+Current register values : 
+-------------------------------------
+PC: 0x0040005c
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00007e96
+R5: 0x00000000
+R6: 0xffffeb65
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00000f7e
+R10: 0x00000000
+R11: 0xffff88be
+R12: 0xffffa163
+R13: 0x0000457f
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x00000000
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffecf2
+R24: 0xffff9173
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x0000413f
+R28: 0xffffd525
+R29: 0x00000000
+R30: 0xffff9cc9
+R31: 0x00005ab6
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+23th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400060
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00007e96
+R5: 0x00000000
+R6: 0xffffeb65
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00000f7e
+R10: 0x00000000
+R11: 0xffff88be
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x00000000
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffecf2
+R24: 0xffff9173
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x0000413f
+R28: 0xffffd525
+R29: 0x00000000
+R30: 0xffff9cc9
+R31: 0x00005ab6
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+24th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400064
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00003869
+R5: 0x00000000
+R6: 0xffffeb65
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00000f7e
+R10: 0x00000000
+R11: 0xffff88be
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x00000000
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffecf2
+R24: 0xffff9173
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x0000413f
+R28: 0xffffd525
+R29: 0x00000000
+R30: 0xffff9cc9
+R31: 0x00005ab6
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+25th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400068
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00003869
+R5: 0x00000000
+R6: 0xffffeb65
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00000f7e
+R10: 0x00000000
+R11: 0xffff88be
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x00000000
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffecf2
+R24: 0xffff9173
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x0000413f
+R28: 0xffffd525
+R29: 0xffff93ca
+R30: 0xffff9cc9
+R31: 0x00005ab6
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+26th cycle
+Current register values : 
+-------------------------------------
+PC: 0x0040006c
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00003869
+R5: 0x00000000
+R6: 0xffffeb65
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00000f7e
+R10: 0x00000000
+R11: 0xffff88be
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x0000b554
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffecf2
+R24: 0xffff9173
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x0000413f
+R28: 0xffffd525
+R29: 0xffff93ca
+R30: 0xffff9cc9
+R31: 0x00005ab6
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+27th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400070
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00003869
+R5: 0x00000000
+R6: 0xffffeb65
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00002805
+R10: 0x00000000
+R11: 0xffff88be
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x0000b554
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffecf2
+R24: 0xffff9173
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x0000413f
+R28: 0xffffd525
+R29: 0xffff93ca
+R30: 0xffff9cc9
+R31: 0x00005ab6
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+28th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400074
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00003869
+R5: 0x00000000
+R6: 0xffffeb65
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00002805
+R10: 0x00000000
+R11: 0xffff88be
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x0000b554
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffecf2
+R24: 0xffff9173
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x0000413f
+R28: 0xffffd525
+R29: 0xffff93ca
+R30: 0xffff9cc9
+R31: 0x0000140b
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+29th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400078
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00003869
+R5: 0x00000000
+R6: 0xffffeb65
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00002805
+R10: 0xffffbb4f
+R11: 0xffff88be
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x0000b554
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffecf2
+R24: 0xffff9173
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x0000413f
+R28: 0xffffd525
+R29: 0xffff93ca
+R30: 0xffff9cc9
+R31: 0x0000140b
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+30th cycle
+Current register values : 
+-------------------------------------
+PC: 0x0040007c
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00003869
+R5: 0x00000000
+R6: 0xffffeb65
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00002805
+R10: 0xffffbb4f
+R11: 0xffffb017
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x0000b554
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffecf2
+R24: 0xffff9173
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x0000413f
+R28: 0xffffd525
+R29: 0xffff93ca
+R30: 0xffff9cc9
+R31: 0x0000140b
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+31th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400080
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00003869
+R5: 0x00000aca
+R6: 0xffffeb65
+R7: 0x00005553
+R8: 0x00000000
+R9: 0x00002805
+R10: 0xffffbb4f
+R11: 0xffffb017
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x0000b554
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffecf2
+R24: 0xffff9173
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x0000413f
+R28: 0xffffd525
+R29: 0xffff93ca
+R30: 0xffff9cc9
+R31: 0x0000140b
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+32th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400084
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00003869
+R5: 0x00000aca
+R6: 0xffffeb65
+R7: 0xffffb32c
+R8: 0x00000000
+R9: 0x00002805
+R10: 0xffffbb4f
+R11: 0xffffb017
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x0000b554
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffecf2
+R24: 0xffff9173
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x0000413f
+R28: 0xffffd525
+R29: 0xffff93ca
+R30: 0xffff9cc9
+R31: 0x0000140b
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+33th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400088
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00003869
+R5: 0x00000aca
+R6: 0xffffeb65
+R7: 0xffffb32c
+R8: 0x00000000
+R9: 0x00002805
+R10: 0xffffbb4f
+R11: 0xffffb017
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x0000b554
+R19: 0x00000000
+R20: 0x00000000
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffd3d7
+R24: 0xffff9173
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x0000413f
+R28: 0xffffd525
+R29: 0xffff93ca
+R30: 0xffff9cc9
+R31: 0x0000140b
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+34th cycle
+Current register values : 
+-------------------------------------
+PC: 0x0040008c
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00003869
+R5: 0x00000aca
+R6: 0xffffeb65
+R7: 0xffffb32c
+R8: 0x00000000
+R9: 0x00002805
+R10: 0xffffbb4f
+R11: 0xffffb017
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x0000b554
+R19: 0x00000000
+R20: 0xffff9583
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffd3d7
+R24: 0xffff9173
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x0000413f
+R28: 0xffffd525
+R29: 0xffff93ca
+R30: 0xffff9cc9
+R31: 0x0000140b
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+35th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400090
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00003869
+R5: 0x00000aca
+R6: 0xffffeb65
+R7: 0xfffffa2a
+R8: 0x00000000
+R9: 0x00002805
+R10: 0xffffbb4f
+R11: 0xffffb017
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x0000b554
+R19: 0x00000000
+R20: 0xffff9583
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffd3d7
+R24: 0xffff9173
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x0000413f
+R28: 0xffffd525
+R29: 0xffff93ca
+R30: 0xffff9cc9
+R31: 0x0000140b
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+36th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400094
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00007c94
+R5: 0x00000aca
+R6: 0xffffeb65
+R7: 0xfffffa2a
+R8: 0x00000000
+R9: 0x00002805
+R10: 0xffffbb4f
+R11: 0xffffb017
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x0000b554
+R19: 0x00000000
+R20: 0xffff9583
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffd3d7
+R24: 0xffff9173
+R25: 0x00000000
+R26: 0x00000000
+R27: 0x0000413f
+R28: 0xffffd525
+R29: 0xffff93ca
+R30: 0xffff9cc9
+R31: 0x0000140b
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+37th cycle
+Current register values : 
+-------------------------------------
+PC: 0x00400098
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00007c94
+R5: 0x00000aca
+R6: 0xffffeb65
+R7: 0xfffffa2a
+R8: 0x00000000
+R9: 0x00002805
+R10: 0xffffbb4f
+R11: 0xffffb017
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x0000b554
+R19: 0x00000000
+R20: 0xffff9583
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffd3d7
+R24: 0xffff9173
+R25: 0x00000000
+R26: 0x00000000
+R27: 0xffff6342
+R28: 0xffffd525
+R29: 0xffff93ca
+R30: 0xffff9cc9
+R31: 0x0000140b
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+38th cycle
+Current register values : 
+-------------------------------------
+PC: 0x0040009c
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00007c94
+R5: 0x00000aca
+R6: 0xffffeb65
+R7: 0xfffffa2a
+R8: 0x00000000
+R9: 0x00002805
+R10: 0xffffbb4f
+R11: 0xffffb017
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x0000b554
+R19: 0x00000000
+R20: 0xffff9583
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffd3d7
+R24: 0xffff9173
+R25: 0x00000000
+R26: 0x00005319
+R27: 0xffff6342
+R28: 0xffffd525
+R29: 0xffff93ca
+R30: 0xffff9cc9
+R31: 0x0000140b
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+39th cycle
+Current register values : 
+-------------------------------------
+PC: 0x004000a0
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00007c94
+R5: 0x00000aca
+R6: 0xffffeb65
+R7: 0xfffffa2a
+R8: 0x00000000
+R9: 0x00002805
+R10: 0xffffbb4f
+R11: 0xffffb017
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x0000b554
+R19: 0x00000000
+R20: 0xffff9583
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffd3d7
+R24: 0xffff9173
+R25: 0xffffc0ba
+R26: 0x00005319
+R27: 0xffff6342
+R28: 0xffffd525
+R29: 0xffff93ca
+R30: 0xffff9cc9
+R31: 0x0000140b
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+40th cycle
+Current register values : 
+-------------------------------------
+PC: 0x004000a4
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00007c94
+R5: 0x00000aca
+R6: 0xffffeb65
+R7: 0xfffffa2a
+R8: 0x00000000
+R9: 0x00002805
+R10: 0xffffbb4f
+R11: 0xffffb017
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00000000
+R17: 0x00000000
+R18: 0x0000b554
+R19: 0x00000000
+R20: 0xffff9583
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffd3d7
+R24: 0xffff9173
+R25: 0xffffc0ba
+R26: 0x00005319
+R27: 0xffff6342
+R28: 0xffffd525
+R29: 0x00007e39
+R30: 0xffff9cc9
+R31: 0x0000140b
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+41th cycle
+Current register values : 
+-------------------------------------
+PC: 0x004000a8
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00007c94
+R5: 0x00000aca
+R6: 0xffffeb65
+R7: 0xfffffa2a
+R8: 0x00000000
+R9: 0x00002805
+R10: 0xffffbb4f
+R11: 0xffffb017
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0xffffac2b
+R15: 0x00000000
+R16: 0x00002d13
+R17: 0x00000000
+R18: 0x0000b554
+R19: 0x00000000
+R20: 0xffff9583
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffd3d7
+R24: 0xffff9173
+R25: 0xffffc0ba
+R26: 0x00005319
+R27: 0xffff6342
+R28: 0xffffd525
+R29: 0x00007e39
+R30: 0xffff9cc9
+R31: 0x0000140b
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+42th cycle
+Current register values : 
+-------------------------------------
+PC: 0x004000ac
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00007c94
+R5: 0x00000aca
+R6: 0xffffeb65
+R7: 0xfffffa2a
+R8: 0x00000000
+R9: 0x00002805
+R10: 0xffffbb4f
+R11: 0xffffb017
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0xffff99e1
+R15: 0x00000000
+R16: 0x00002d13
+R17: 0x00000000
+R18: 0x0000b554
+R19: 0x00000000
+R20: 0xffff9583
+R21: 0x00000000
+R22: 0x00000000
+R23: 0xffffd3d7
+R24: 0xffff9173
+R25: 0xffffc0ba
+R26: 0x00005319
+R27: 0xffff6342
+R28: 0xffffd525
+R29: 0x00007e39
+R30: 0xffff9cc9
+R31: 0x0000140b
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+43th cycle
+Current register values : 
+-------------------------------------
+PC: 0x004000b0
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00007c94
+R5: 0x00000aca
+R6: 0xffffeb65
+R7: 0xfffffa2a
+R8: 0x00000000
+R9: 0x00002805
+R10: 0xffffbb4f
+R11: 0xffffb017
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0xffff99e1
+R15: 0x00000000
+R16: 0x00002d13
+R17: 0x00000000
+R18: 0x0000b554
+R19: 0x00000000
+R20: 0xffff9583
+R21: 0xffffe3e7
+R22: 0x00000000
+R23: 0xffffd3d7
+R24: 0xffff9173
+R25: 0xffffc0ba
+R26: 0x00005319
+R27: 0xffff6342
+R28: 0xffffd525
+R29: 0x00007e39
+R30: 0xffff9cc9
+R31: 0x0000140b
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+44th cycle
+Current register values : 
+-------------------------------------
+PC: 0x004000b4
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00007c94
+R5: 0x00000aca
+R6: 0xffffeb65
+R7: 0xfffffa2a
+R8: 0x00000000
+R9: 0x00002805
+R10: 0xffffbb4f
+R11: 0xffffb017
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0xffff99e1
+R15: 0x00000000
+R16: 0x00002d13
+R17: 0x00000000
+R18: 0x0000b554
+R19: 0x00000000
+R20: 0xffff6a5b
+R21: 0xffffe3e7
+R22: 0x00000000
+R23: 0xffffd3d7
+R24: 0xffff9173
+R25: 0xffffc0ba
+R26: 0x00005319
+R27: 0xffff6342
+R28: 0xffffd525
+R29: 0x00007e39
+R30: 0xffff9cc9
+R31: 0x0000140b
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+45th cycle
+Current register values : 
+-------------------------------------
+PC: 0x004000b8
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00007c94
+R5: 0x00000aca
+R6: 0xffffeb65
+R7: 0xfffffa2a
+R8: 0x00000000
+R9: 0x00002805
+R10: 0x00001352
+R11: 0xffffb017
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0xffff99e1
+R15: 0x00000000
+R16: 0x00002d13
+R17: 0x00000000
+R18: 0x0000b554
+R19: 0x00000000
+R20: 0xffff6a5b
+R21: 0xffffe3e7
+R22: 0x00000000
+R23: 0xffffd3d7
+R24: 0xffff9173
+R25: 0xffffc0ba
+R26: 0x00005319
+R27: 0xffff6342
+R28: 0xffffd525
+R29: 0x00007e39
+R30: 0xffff9cc9
+R31: 0x0000140b
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+46th cycle
+Current register values : 
+-------------------------------------
+PC: 0x004000bc
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00007c94
+R5: 0x00000aca
+R6: 0xffffeb65
+R7: 0xfffffa2a
+R8: 0x00000000
+R9: 0x00002805
+R10: 0x00001352
+R11: 0xffffb017
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0x00007716
+R15: 0x00000000
+R16: 0x00002d13
+R17: 0x00000000
+R18: 0x0000b554
+R19: 0x00000000
+R20: 0xffff6a5b
+R21: 0xffffe3e7
+R22: 0x00000000
+R23: 0xffffd3d7
+R24: 0xffff9173
+R25: 0xffffc0ba
+R26: 0x00005319
+R27: 0xffff6342
+R28: 0xffffd525
+R29: 0x00007e39
+R30: 0xffff9cc9
+R31: 0x0000140b
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+47th cycle
+Current register values : 
+-------------------------------------
+PC: 0x004000c0
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00007c94
+R5: 0x00000aca
+R6: 0xffffeb65
+R7: 0xfffffa2a
+R8: 0x00000000
+R9: 0x00002805
+R10: 0x00001352
+R11: 0xfffff95e
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0x00007716
+R15: 0x00000000
+R16: 0x00002d13
+R17: 0x00000000
+R18: 0x0000b554
+R19: 0x00000000
+R20: 0xffff6a5b
+R21: 0xffffe3e7
+R22: 0x00000000
+R23: 0xffffd3d7
+R24: 0xffff9173
+R25: 0xffffc0ba
+R26: 0x00005319
+R27: 0xffff6342
+R28: 0xffffd525
+R29: 0x00007e39
+R30: 0xffff9cc9
+R31: 0x0000140b
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+48th cycle
+Current register values : 
+-------------------------------------
+PC: 0x004000c4
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00007c94
+R5: 0x00000aca
+R6: 0xffffeb65
+R7: 0xfffffa2a
+R8: 0x00004277
+R9: 0x00002805
+R10: 0x00001352
+R11: 0xfffff95e
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0x00007716
+R15: 0x00000000
+R16: 0x00002d13
+R17: 0x00000000
+R18: 0x0000b554
+R19: 0x00000000
+R20: 0xffff6a5b
+R21: 0xffffe3e7
+R22: 0x00000000
+R23: 0xffffd3d7
+R24: 0xffff9173
+R25: 0xffffc0ba
+R26: 0x00005319
+R27: 0xffff6342
+R28: 0xffffd525
+R29: 0x00007e39
+R30: 0xffff9cc9
+R31: 0x0000140b
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+49th cycle
+Current register values : 
+-------------------------------------
+PC: 0x004000c8
+Register:
+R0: 0xffff96c3
+R1: 0x00000000
+R2: 0xffffb969
+R3: 0x00000162
+R4: 0x00007c94
+R5: 0x00000aca
+R6: 0xffffeb65
+R7: 0xfffffa2a
+R8: 0x00004277
+R9: 0x00002805
+R10: 0x00001352
+R11: 0xfffff95e
+R12: 0x00003bdb
+R13: 0x0000457f
+R14: 0x00007716
+R15: 0x00000000
+R16: 0x00002d13
+R17: 0x00000000
+R18: 0x0000b554
+R19: 0x00000000
+R20: 0xffff6a5b
+R21: 0xffffe3e7
+R22: 0x00000000
+R23: 0xffffd3d7
+R24: 0xffff9173
+R25: 0xffffc0ba
+R26: 0x00005319
+R27: 0xffff6342
+R28: 0xffffd525
+R29: 0xffffc297
+R30: 0xffff9cc9
+R31: 0x0000140b
+
+Memory content [0x10000000..0x10000010] :
+-------------------------------------
+0x10000000: 0x00000000
+0x10000004: 0x00000000
+0x10000008: 0x00000000
+0x1000000c: 0x00000000
+0x10000010: 0x00000000
+
+50th cycle
